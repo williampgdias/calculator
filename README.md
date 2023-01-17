@@ -11,3 +11,6 @@ I did again with a different tutorial and found that better, because it is "simp
 - ``HTML``
 - ``CSS``
 - ``Javascript``
+
+## :paperclip: Link to project
+You can acess the project by clicking on this [link](https://williampgdias.github.io/calculator/)
