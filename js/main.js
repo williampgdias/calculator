@@ -1,7 +1,7 @@
 const display = document.getElementById('display');
 const buttons = document.querySelectorAll('button');
 
-// Função para calculadora funcionar
+// FUNCTION TO MAKE THE CALCULATOR WORKS
 buttons.forEach((item) => {
   item.onclick = () => {
     if (item.id == 'clear') {
@@ -20,7 +20,7 @@ buttons.forEach((item) => {
   };
 });
 
-// Função para mudar o tema escuro/claro
+// FUNCTION TO CHANGE THE THEME
 const themeToggleBtn = document.querySelector('.theme-toggler');
 const calculator = document.querySelector('.calculator');
 const toggleIcon = document.querySelector('.toggler-icon');
